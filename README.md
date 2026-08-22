@@ -1,2 +1,2 @@
-# wasteland-warfare-assets
-Public images for the Wasteland Warfare Rust server
+# Ruinfront Warfare
+Public images for the Ruinfront Warfare Rust server
